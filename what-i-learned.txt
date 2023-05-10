@@ -1,0 +1,8 @@
+In this section, I will try to input what I have learned in the past.
+I learned how to create from !DOCTYPE html to have html lang=en
+I learned to create head and body where head need to have meta charset utf-8 inside it.
+In head, title=title of the tab or the web.
+In body, <h> header and distinguished from 1 to 6, <strong> for Bold text, <em> for emphasis.
+Inserting, image is <img src>, links is <a hrf>.
+lists is ul and li where is ul is just hanging and li is bulleted.
+add ol as parent and it will be numberized when you use li.
