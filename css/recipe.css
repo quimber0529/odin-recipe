@@ -1,0 +1,24 @@
+#recipename {
+    text-align: center;
+}
+body {
+    background-color: #ffff99;
+}
+.description{
+    width: 600px
+}
+.top.image {
+    width: 400px;
+}
+.bottom.image {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.steps{
+    width: 800px;
+}
+#back {
+    text-align: center;
+}
